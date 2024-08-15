@@ -1,2 +1,2 @@
 # back-ground-generator
-test of using git hub with merge conflict
+Useful to generate background (colored) with JavaScript.
